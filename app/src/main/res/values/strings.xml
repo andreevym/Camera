@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Camera</string>
+    <string name="capture_picture_btn">Проверить</string>
+    <string name="image_preview">image preview</string>
+</resources>
